@@ -68,30 +68,39 @@ O objetivo da atividade é criar um menu interativo onde o usuário escolhe um e
 > **Figura 1 :** Em funcionamento
 
 <img width="712" height="854" alt="image" src="https://github.com/user-attachments/assets/d528fe1b-873b-4cd0-a852-01c1256d74b4" />
+
 > **Figura 2 :** Em funcionamento
 
 <img width="742" height="695" alt="image" src="https://github.com/user-attachments/assets/8b96286c-8359-487b-adc8-deb3b7d67256" />
+
 > **Figura 3 :** Em funcionamento
 
 <img width="764" height="771" alt="image" src="https://github.com/user-attachments/assets/3f3b46ca-0936-4b5e-b221-4d77086a3939" />
+
 > **Figura 4 :** Em funcionamento
 
 <img width="735" height="817" alt="image" src="https://github.com/user-attachments/assets/06ba5cf4-e075-4ed5-8f33-d118ab923a93" />
+
 > **Figura 5 :** Em funcionamento
 
 <img width="805" height="649" alt="image" src="https://github.com/user-attachments/assets/b20a02aa-a5bb-4b7a-b890-ed284ebbe686" />
+
 > **Figura 6 :** Em funcionamento
 
 <img width="763" height="733" alt="image" src="https://github.com/user-attachments/assets/a0539ca9-f9ca-4532-8034-d612685e65c5" />
+
 > **Figura 7 :** Em funcionamento
 
 <img width="762" height="616" alt="image" src="https://github.com/user-attachments/assets/e0cce36b-9a51-4dce-b9e6-d8b777688ec7" />
+
 > **Figura 8 :** Em funcionamento
 
 <img width="753" height="500" alt="image" src="https://github.com/user-attachments/assets/1133fe57-89fa-4c1c-a3ae-8c932e7ceb0f" />
+
 > **Figura 9 :** Em funcionamento
 
 <img width="733" height="550" alt="image" src="https://github.com/user-attachments/assets/33c40ab1-88bb-4c1c-be9a-d5df45dbca62" />
+
 > **Figura 10 :** Em funcionamento
 
 ## 🚀 Como Executar
