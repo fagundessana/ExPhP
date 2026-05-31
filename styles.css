@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #f2efeb;
+    font-family: 'Inter', sans-serif;
+}
+
+.header{
+    text-align: center;
+    padding: 40px;
+}
+
+.header h1{
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background-color:#d0d8e0 ;
+    border-radius: 20px;
+    padding: 30px;
+    width: 500px;
+    height: 550px;
+}
+.card-title{
+    background-color:#f2efeb;
+    border-radius: 30px;
+    text-align: center;
+    padding: 15px;
+    color: #1f2843;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+.button-card{
+    background-color: #f0ede8;
+    border: none;
+    border-radius: 30px;
+    width: 435px;
+    height: 370px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 20px;
+
+}
+
+.button-card button {
+    background-color: #ffffff;
+    color: #1f2843;
+    border: none;
+    border-radius: 30px;
+    padding: 12px 8px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 0.75rem;
+    cursor: pointer;
+}
+.btn-limpar{
+     background-color: #2d5a27 !important;
+    color: white !important;
+}
+.btn-fechar {
+    background-color: #5a1a1a !important;
+    color: white !important;
+}
+.button-card button:hover {
+    background-color: #d0d8e0;
+    transition: background-color 0.3s ease;
+}
+.form-exercicio {
+    background-color: #f0ede8;
+    border: none;
+    border-radius: 30px;
+    width: 470px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+
+.form-exercicio input, .form-exercicio select {
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin: 5px 0;
+    width: 100%;
+}
+
+.form-exercicio button {
+    background-color: #1f2843;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#resultado {
+    background-color: #f2efeb;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 20px;
+    width: 500px;
+    color: #1f2843;
+}
